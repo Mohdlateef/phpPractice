@@ -3,8 +3,8 @@ const name="umer";
 
 echo(name);
 
-name="lateef";
-echo name;
+// name="lateef";
+// echo name;
 ?>
 
 
