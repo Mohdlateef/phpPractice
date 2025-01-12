@@ -1,5 +1,5 @@
 <?php
-echo "<h1 style='color:yellow'> hey my name is lateef ahmad baba</h1>"
+echo "<h1 style='color:yellow'> hey my name is lateef ahmad baba</h1>";
 
 
 ?>
