@@ -44,4 +44,5 @@ function fun4(){
     echo $var2;
 }
 fun4();
+print_r( $GLOBALS);
 ?>
