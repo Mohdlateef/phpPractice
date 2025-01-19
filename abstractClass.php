@@ -5,6 +5,7 @@ abstract class ProductionFeatures{
 
     abstract function productFeatures();
 
+
     function common(){
         echo"all produts have one camra atleast";
     }
